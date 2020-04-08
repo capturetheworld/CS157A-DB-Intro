@@ -1,0 +1,62 @@
+﻿03/04/2020    12:07:58 PM    from Steven luu (External) to Everyone:	correction watched it 
+03/04/2020    12:08:02 PM    from Spencer Enriquez (External) to Everyone:	Did not watch yet
+03/04/2020    12:08:14 PM    from Jordan (External) to Everyone:	I do
+03/04/2020    12:08:15 PM    from Michael Deely (External) to Everyone:	Can you mute your sessions guys?
+03/04/2020    12:08:17 PM    from Vũ Lê Duy (External) to Everyone:	can u mute every1?
+03/04/2020    12:08:17 PM    from Trevor G (External) to Everyone:	can yall mute yourselves
+03/04/2020    12:08:19 PM    from Michael Deely (External) to Everyone:	Thanks
+03/04/2020    12:08:34 PM    from Trevor G (External) to Everyone:	thank you
+03/04/2020    12:09:09 PM    from Ralph Dela Cruz (External) to Everyone:	Are we going through the whole midterm?
+03/04/2020    12:09:21 PM    from Steven luu (External) to Everyone:	If the volume was low you can try to where headphones with a MIC it'll be closer to the mouth
+03/04/2020    12:16:05 PM    from Ian S. (External) to HARMAN GILL (IBM) (privately):	Professor, under the Cisco you can mute everyone under Participant tab in the menu bar
+03/04/2020    12:20:46 PM    from Nhat Nguyen (External) to Everyone:	I did sec_id = NULL would I get points are that?
+03/04/2020    12:20:54 PM    from Alvin Lin (External) to Everyone:	I have a question with Q25. I put no and stated usdi could be null.
+03/04/2020    12:20:59 PM    from Nhat Nguyen (External) to Everyone:	dang lol
+03/04/2020    12:21:35 PM    from Alvin Lin (External) to Everyone:	Thank you
+03/04/2020    12:22:08 PM    from Sarah Chi (External) to Everyone:	if i put select course_id from course where semester is NULL and year is NULL, would I get points for that?
+03/04/2020    12:22:23 PM    from Steven luu (External) to Everyone:	When will the midterm grades be posted?
+03/04/2020    12:22:27 PM    from Sarah Chi (External) to Everyone:	oh ok
+03/04/2020    12:23:08 PM    from Steven luu (External) to Everyone:	Awesome. thank you!
+03/04/2020    12:23:27 PM    from Nguyen Danh (External) to Everyone:	For 12, can I use course left natural join teaches instead of section ? 
+03/04/2020    12:23:33 PM    from Manny Cestoni (External) to Everyone:	Can anyone tell me how they get their sound working 
+03/04/2020    12:24:04 PM    from Steven luu (External) to Everyone:	you have to allow your comp to allow access to your audio/mic
+03/04/2020    12:24:19 PM    from Nhat Nguyen (External) to Everyone:	^ for mac people
+03/04/2020    12:24:30 PM    from Justin Zhu (External) to Everyone:	Or you can use your phone and call in
+03/04/2020    12:24:40 PM    from Nguyen Danh (External) to Everyone:	Thank you
+03/04/2020    12:25:39 PM    from Nguyen Danh (External) to Everyone:	I use mac and had sound problem then I close and restart application. After that, it works well
+03/04/2020    12:25:49 PM    from Ian S. (External) to Manny Cestoni (External) (privately):	Can you mute your mic? It seems like audio is coming through from you
+03/04/2020    12:26:48 PM    from Manny Cestoni (External) to Everyone:	Got it thank you  
+03/04/2020    12:29:09 PM    from Manny Cestoni (External) to Ian S. (External) (privately):	I believe it is muted
+03/04/2020    12:33:07 PM    from Ian S. (External) to Manny Cestoni (External) (privately):	yeah i think so :D
+03/04/2020    12:39:27 PM    from Sarah Supat (External) to Everyone:	method of searching
+03/04/2020    12:39:44 PM    from Gill.Teghbir (External) to Everyone:	sata cable
+03/04/2020    12:39:51 PM    from Safwat (External) to Everyone:	Input output 
+03/04/2020    12:39:57 PM    from Nhat Nguyen (External) to Everyone:	too many people access
+03/04/2020    12:40:02 PM    from Ian S. (External) to Everyone:	The speed of the hardware
+03/04/2020    12:40:09 PM    from Trevor G (External) to Everyone:	accessing data
+03/04/2020    12:40:11 PM    from Safwat (External) to Everyone:	i mean the time to retrive the data from the HD
+03/04/2020    12:40:15 PM    from Siya Pang (External) to Everyone:	io time to the disk
+03/04/2020    12:51:38 PM    from Nhat Nguyen (External) to Everyone:	Does SQL sort the table ID when doing searching?
+03/04/2020    12:51:53 PM    from Nhat Nguyen (External) to Everyone:	linear* searching?
+03/04/2020    12:52:17 PM    from Nhat Nguyen (External) to Everyone:	gotcha
+03/04/2020    12:53:06 PM    from Siya Pang (External) to Everyone:	log base 2 (1000000)
+03/04/2020    13:00:15 PM    from Safwat (External) to Everyone:	no 
+03/04/2020    13:00:16 PM    from Spencer Enriquez (External) to Everyone:	no
+03/04/2020    13:00:17 PM    from Ian S. (External) to Everyone:	no
+03/04/2020    13:00:18 PM    from Trevor G (External) to Everyone:	no
+03/04/2020    13:00:19 PM    from Haasitha Pidaparthi (External) to Everyone:	no
+03/04/2020    13:00:20 PM    from Kaushal Kanikaram (External) to Everyone:	No
+03/04/2020    13:00:21 PM    from Francisco Ibarra (External) to Everyone:	nah
+03/04/2020    13:07:49 PM    from Aniqua Azad (External) to Everyone:	Will the recording of today's lecture be available?
+03/04/2020    13:08:59 PM    from Nhat Nguyen (External) to Everyone:	Can we try broadcasting next time? Or maybe have a setting to disable mics in join and disable the beeps, it can be distracting
+03/04/2020    13:09:28 PM    from Ian S. (External) to Everyone:	Did you do mute on entry?
+03/04/2020    13:10:31 PM    from Ian S. (External) to Everyone:	this worked well, I could still hear you clearly even with noise from other people
+03/04/2020    13:11:11 PM    from Siya Pang (External) to Everyone:	webex is a lot clearer than zoom
+03/04/2020    13:11:22 PM    from Steven luu (External) to Everyone:	I agree. web is more clear than zoom
+03/04/2020    13:12:20 PM    from Steven luu (External) to Everyone:	will Mondays lecture be in class or web?
+03/04/2020    13:13:06 PM    from Trinh Nguye (External) to Everyone:	Thank you for doing this 
+03/04/2020    13:13:24 PM    from Steven luu (External) to Everyone:	Agree. rather be safe then sorry.
+03/04/2020    13:14:21 PM    from Steven luu (External) to Everyone:	I really like the video lecture to where we can watch it multiple times compare to in class lecture
+03/04/2020    13:16:08 PM    from Nguyen Danh (External) to Everyone:	I agree. This video lecture is really helpful
+03/04/2020    13:16:13 PM    from Ian S. (External) to Everyone:	bye
+03/04/2020    13:16:22 PM    from HARMAN GILL (IBM) to Everyone:	bye
