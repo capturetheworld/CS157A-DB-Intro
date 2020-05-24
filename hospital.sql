@@ -9,6 +9,16 @@ create table patient (
   ward integer not null
 );
 
+CREATE TABLE customer(
+	customer_id INT PRIMARY KEY, 
+	first CHAR(20), 
+	middle CHAR(20), 
+	last CHAR(20)
+);
+
+
+
+
 insert into patient values(454, "Smith",   "John",   "M", "14.08.78", 6);
 insert into patient values(223, "Jones",   "Peter",  "M", "07.12.85", 8);
 insert into patient values(597, "Brown",   "Brenda", "F", "17.06.61", 3);
